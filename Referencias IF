@@ -1,0 +1,1065 @@
+Referencias IF para agente.
+
+1. Municipalidad de Lampa
+
+REFERENCIA N°: 115.017/2025
+ Informe Final N°: 130
+ Año: 2025
+ Entidad: Municipalidad de Lampa
+ Materia: Auditoría a las contrataciones a honorarios suscritas durante el año 2023.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre: Ausencia de manual de procedimientos para la contratación y pago de servicios a honorarios.
+
+Texto de la observación:
+ Se constató que la entidad edilicia no dispone de un manual de procedimientos que regule formalmente las etapas de requerimiento, selección, contratación, supervisión y pago de los servicios a honorarios imputados a programas comunitarios y suma alzada. Tampoco se establecen las validaciones mínimas aplicables a los informes mensuales de actividades antes de autorizar los desembolsos. Lo expuesto no se condice con el artículo 5° de la resolución exenta N° 1.962, de 2022, de este origen, en cuanto exige establecer y ejecutar actividades de control destinadas a minimizar los riesgos institucionales.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.2
+ Nombre: Inexistencia de procedimientos para registrar contratos a honorarios en SIAPER.
+
+Texto de la observación:
+ Se verificó que el municipio no cuenta con un procedimiento formal que regule el registro de los contratos a honorarios en el Sistema de Información y Control del Personal de la Administración del Estado, SIAPER, identificando responsables, niveles de revisión, documentación requerida y plazos de tramitación. La asignación de personal para realizar esa labor no sustituye la necesidad de disponer de instrucciones escritas y controles formalizados, conforme con el artículo 5° de la resolución exenta N° 1.962, de 2022.
+
+Observación 3
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.3
+ Nombre: Falta de mecanismos de control asociados a los contratos a honorarios.
+
+Texto de la observación:
+ Se constató que 107 de los 110 contratos examinados, equivalentes al 97,7% de la muestra, presentaban inconsistencias en la cláusula que regulaba la emisión de los informes y boletas de honorarios. En efecto, los antecedentes debían entregarse antes de concluir el período mensual que pretendían acreditar, por lo que no era posible supervisar la totalidad de las prestaciones correspondientes al mes respectivo. La situación evidencia deficiencias en la revisión de los contratos y en el control de las labores ejecutadas, contraviniendo el artículo 8° de la resolución exenta N° 1.962, de 2022, y los principios de responsabilidad, eficacia y control.
+
+Observación 4
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3
+ Nombre: Beneficios otorgados por sobre lo pactado en el contrato de honorarios.
+
+Texto de la observación:
+ Se constató que una prestadora de servicios percibió íntegramente sus honorarios durante períodos en que hizo uso de licencia médica y de permisos administrativos superiores a los autorizados en su contrato. Lo anterior no se ajustó a las cláusulas del respectivo convenio, que excluían el pago durante la vigencia de licencias médicas y limitaban los permisos administrativos a tres días. Cabe recordar que el contrato constituye el marco de los derechos y obligaciones de las personas contratadas a honorarios, de conformidad con el artículo 1.545 del Código Civil y el criterio contenido en los dictámenes N°s. 2.288, de 2014, y 73.388, de 2010.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5
+ Nombre: Ausencia de declaraciones juradas de probidad.
+
+Texto de la observación:
+ Se verificó que 69 contratos, asociados a 47 prestadores de servicios, no contaban con declaraciones juradas de probidad válidas y vinculadas a la contratación respectiva. Asimismo, no se acreditó la verificación de esos antecedentes ante el Servicio de Registro Civil e Identificación. La situación impidió comprobar oportunamente el cumplimiento de las inhabilidades e incompatibilidades administrativas contempladas en los artículos 54, 55 y 56 de la ley N° 18.575 y de los requisitos establecidos en los artículos 10 y 11 de la ley N° 18.883.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7
+ Nombre: Falta de especificidad en las tareas encomendadas.
+
+Texto de la observación:
+ De la revisión de los contratos de honorarios de la muestra, se advirtió que en 103 de ellos el cometido se expresó en términos genéricos, sin individualizar de manera precisa, determinada y circunscrita las tareas que debían ser desarrolladas. Lo anterior no se ajusta al inciso segundo del artículo 4° de la ley N° 18.883 y dificulta verificar la efectiva ejecución de los servicios contratados. La simple enumeración de labores habituales o propias de una unidad municipal no constituye un cometido específico, conforme con los dictámenes N°s. 16.246, de 2015, y 13.917, de 2017.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 8
+ Nombre: Homogeneidad en los informes de actividades.
+
+Texto de la observación:
+ Se constató que 41 informes mensuales, emitidos por 16 prestadores de servicios, describían idénticas tareas durante distintos períodos, sin informar etapas, avances, resultados ni productos verificables. La reiteración de las actividades evidencia una insuficiente supervisión por parte de las unidades técnicas y no permite acreditar el carácter específico de los cometidos. La situación vulnera los principios de responsabilidad y control establecidos en el artículo 3° de la ley N° 18.575 y se aparta del criterio contenido en el dictamen N° 13.917, de 2017.
+
+Observación 8
+
+Acápite del informe: II. Examen de la materia auditada, numeral 11
+ Nombre: Extemporaneidad en la emisión de contratos y actos administrativos aprobatorios.
+
+Texto de la observación:
+ Se advirtió que diversos decretos alcaldicios aprobaron contrataciones a honorarios con posterioridad al inicio de las prestaciones, registrándose retrasos de hasta 142 días corridos. Asimismo, se detectaron diferencias de hasta 120 días entre el inicio de los servicios y la suscripción de los contratos. Lo anterior evidencia que los actos administrativos fueron emitidos para regularizar prestaciones ya iniciadas, situación que no se ajusta a los principios de celeridad e irretroactividad contemplados en los artículos 7° y 52 de la ley N° 19.880.
+
+Observación 9
+
+Acápite del informe: III. Examen de cuentas, numeral 13
+ Nombre: Pagos de honorarios no acreditados.
+
+Texto de la observación:
+ Se constató que 82 informes mensuales, asociados a 35 prestadores de servicios y a pagos por un total de $89.352.999, no contaban con documentación suficiente para acreditar la ejecución efectiva de las tareas informadas. La sola certificación o visación de la jefatura no permite comprobar materialmente las prestaciones realizadas. La falta de respaldo vulnera el artículo 55 del decreto ley N° 1.263, de 1975, y el artículo 2°, letra c), de la resolución N° 30, de 2015, razón por la cual se anunció la formulación del reparo correspondiente.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 14.1
+ Nombre: Honorarios pagados a funcionarios municipales.
+
+Texto de la observación:
+ Se constató que la municipalidad pagó honorarios por $8.850.578 a 11 personas funcionarias que mantenían contratas de 44 horas semanales, sin acreditar que las actividades adicionales se hubieran desarrollado fuera de la jornada ordinaria. Lo anterior evidencia una eventual incompatibilidad horaria y riesgo de doble pago, contraviniendo el artículo 85, letra b), de la ley N° 18.883 y los principios de responsabilidad, eficacia y control. La entidad deberá acreditar documentalmente la oportunidad y efectiva ejecución de las prestaciones objetadas.
+
+2. Municipalidad de Peñalolén
+
+REFERENCIA N°: 115.013/2025
+ Informe Final N°: 119
+ Año: 2025
+ Entidad: Municipalidad de Peñalolén
+ Materia: Auditoría al proceso de asignación, control, ejecución y pago de horas extraordinarias.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre: Falta de supervisión de la información registrada en los libros de remuneraciones.
+
+Texto de la observación:
+ Se constató que el municipio no cuenta con mecanismos suficientes de control y supervisión sobre la información incorporada en los libros de remuneraciones. El cruce entre dichos libros y los decretos de pago permitió detectar una diferencia de $55.966.533, originada porque determinados conceptos asociados a turnos nocturnos se registraban bajo categorías genéricas. La situación genera una distorsión en los sistemas de información y no se ajusta a los numerales 6.1.2 y 8° de la resolución exenta N° 1.962, de 2022, relativos a la integridad y precisión de la información.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.1
+ Nombre: Ausencia de mecanismos para detectar inconsistencias entre los registros manuales y las planillas de asistencia.
+
+Texto de la observación:
+ Se comprobó que la entidad no dispone de manuales, guías o instrucciones que establezcan controles destinados a verificar que la información traspasada desde los libros manuales de asistencia a las planillas Excel sea íntegra y coincidente. Tampoco se encuentran formalmente definidas las responsabilidades de quienes realizan y supervisan ese proceso. Lo anterior no se ajusta a los numerales 5.3.2, 5.3.3 y 5.3.5 de la resolución exenta N° 1.962, de 2022.
+
+Observación 3
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.2
+ Nombre: Falta de firma y timbre en las hojas de asistencia.
+
+Texto de la observación:
+ Se constató que las hojas de asistencia de 30 funcionarios no registraban oportunamente las firmas y timbres de las respectivas direcciones municipales. La omisión incumplió el procedimiento de registro y control de asistencia aprobado por el municipio, que exige la validación mensual de los antecedentes por parte de cada jefatura. La incorporación posterior de las visaciones no desvirtúa el hecho, dado que la actividad de control no fue realizada en la oportunidad correspondiente.
+
+Observación 4
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.7
+ Nombre: Vulnerabilidad del traspaso de registros manuales a planillas Excel.
+
+Texto de la observación:
+ Se verificó que las direcciones municipales transcriben manualmente la información de asistencia a planillas Excel para calcular las horas extraordinarias. Dichos archivos pueden ser modificados sin dejar evidencia suficiente de los cambios, lo que compromete la integridad, confiabilidad y exactitud de la información empleada para efectuar los pagos. La situación no se ajusta a los numerales 6.1 y 6.1.4 de la resolución exenta N° 1.962, de 2022, respecto de la generación, protección y disponibilidad de información relevante y de calidad.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 4
+ Nombre: Falta de oportunidad en la dictación de los decretos que autorizan horas extraordinarias.
+
+Texto de la observación:
+ Se verificó que 32 actos administrativos que autorizaban trabajos extraordinarios fueron emitidos con posterioridad al inicio de su ejecución, registrándose retrasos de hasta 118 días hábiles. Los trabajos extraordinarios deben ser previamente autorizados, individualizando al personal, la cantidad de horas y el período correspondiente. La actuación municipal se apartó de los criterios contenidos en los dictámenes N°s. 5.921 y 67.622, ambos de 2010.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5
+ Nombre: Pago de horas extraordinarias sin decretos alcaldicios aprobatorios.
+
+Texto de la observación:
+ Se constató el pago de horas extraordinarias a 13 funcionarios, por un total de $6.358.084, sin que inicialmente constaran los decretos alcaldicios que autorizaran su ejecución. Las labores desarrolladas fuera de la jornada ordinaria solo generan derecho a compensación cuando responden a tareas impostergables, existe una orden previa de la autoridad competente y se realizan en los horarios previstos legalmente. La ausencia del acto administrativo previo impide reconocer dichas labores como horas extraordinarias.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 6
+ Nombre: Horas extraordinarias pagadas por sobre el tiempo efectivamente trabajado.
+
+Texto de la observación:
+ Se determinó que determinados funcionarios percibieron pagos por una cantidad de horas extraordinarias superior a la acreditada en sus registros de asistencia. La falta de correspondencia entre las horas pagadas y las efectivamente ejecutadas evidencia deficiencias en la revisión previa de los antecedentes y contraviene los principios de control y responsabilidad establecidos en los artículos 3° y 5° de la ley N° 18.575, así como el deber de control jerárquico previsto en la ley N° 18.883.
+
+Observación 8
+
+Acápite del informe: III. Examen de cuentas, numeral 8
+ Nombre: Pagos de horas extraordinarias que exceden lo autorizado.
+
+Texto de la observación:
+ Del examen de cuentas se estableció la existencia de desembolsos por horas extraordinarias que superaban las cantidades autorizadas mediante los respectivos actos administrativos. La situación demuestra que no existió una validación suficiente entre las horas autorizadas, registradas, certificadas y finalmente pagadas. En consecuencia, el municipio deberá fortalecer el control previo del gasto y asegurar que los pagos se limiten estrictamente a las horas formalmente autorizadas y efectivamente ejecutadas.
+
+Observación 9
+
+Acápite del informe: III. Examen de cuentas, numeral 9
+ Nombre: Ausencia de restituciones por pagos en exceso.
+
+Texto de la observación:
+ Se verificó que permanecían pendientes de restitución pagos en exceso por un total de $391.476. Aunque el municipio informó el inicio de gestiones de cobranza, no acreditó la recuperación efectiva de los recursos mediante comprobantes de ingreso, registros contables y cartolas bancarias. En consecuencia, la observación se mantuvo mientras no se demostrara documentalmente el reintegro íntegro de los fondos municipales.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 10
+ Nombre: Pagos de horas extraordinarias no acreditadas.
+
+Texto de la observación:
+ Se determinó que tres funcionarios percibieron pagos por trabajos extraordinarios cuya ejecución no constaba suficientemente en los registros de asistencia. Tras revisar los antecedentes adicionales, el monto objetado se estableció en $161.813. La falta de respaldo contraviene el artículo 55 del decreto ley N° 1.263, de 1975, y el artículo 2°, letra c), de la resolución N° 30, de 2015, que exigen documentación auténtica para justificar los desembolsos públicos.
+
+3. Municipalidad de La Reina
+
+REFERENCIA N°: 115.014/2025
+ Informe Final N°: 138
+ Año: 2025
+ Entidad: Municipalidad de La Reina
+ Materia: Auditoría a la concesión de los servicios de mantención de áreas verdes y arbolado urbano.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre: Falta de segregación de funciones en conciliaciones bancarias y movimiento de fondos.
+
+Texto de la observación:
+ Se constató que una misma funcionaria participaba en la revisión y aprobación de las conciliaciones bancarias y, a la vez, mantenía la calidad de giradora titular de cuentas corrientes municipales. La concentración de funciones incompatibles debilita el control por oposición y aumenta el riesgo de errores o irregularidades. Lo anterior no se ajusta al apartado IV, numeral 1.5, del oficio N° E324651, de 2023, ni al artículo 8° de la resolución exenta N° 1.962, de 2022.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.2
+ Nombre: Conciliaciones bancarias confeccionadas manualmente.
+
+Texto de la observación:
+ Se verificó que las conciliaciones bancarias de las cuentas corrientes municipales eran elaboradas en planillas Excel, sin utilizar el módulo dispuesto en el sistema contable institucional. El empleo de archivos modificables sin trazabilidad suficiente expone a la entidad a riesgos de cambios de dígitos, omisiones, modificaciones o eliminaciones de transacciones. La situación compromete la seguridad, integridad y confiabilidad de la información financiera y no se ajusta al numeral 6.1.4 de la resolución exenta N° 1.962, de 2022.
+
+Observación 3
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.1
+ Nombre: Falta de evidencia de la supervisión de la licitación ID N° 2699-47-LR23.
+
+Texto de la observación:
+ Se constató una escasa utilización de los libros de servicios por parte de la inspección técnica, registrándose solo 22 anotaciones durante 2024 para los cinco sectores concesionados. La utilización de correos electrónicos, mensajería WhatsApp y del sistema de atención al vecino no reemplazó las formalidades previstas en las bases. En consecuencia, no fue posible acreditar suficientemente la supervisión de la ejecución contractual ni el registro oportuno de eventuales incumplimientos susceptibles de multas.
+
+Observación 4
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.2, letra b)
+ Nombre: Deficiencias en los registros de asistencia del personal de mantención.
+
+Texto de la observación:
+ En las validaciones efectuadas en terreno se detectó que los libros de asistencia de los cinco sectores presentaban falta de registros, firmas posteriores a las fechas de validación y diferencias respecto de la dotación diaria de trabajadores. Lo anterior incumple el punto 3.1.3 de las bases técnicas, que exige mantener una planilla con el número de trabajadores destinados diariamente al área y sus correspondientes firmas. La situación se aparta del principio de estricta sujeción a las bases establecido en el artículo 10 de la ley N° 19.886.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.6
+ Nombre: Dilación en la tramitación de los actos administrativos.
+
+Texto de la observación:
+ Se evidenciaron retrasos de entre 105 y 119 días corridos entre la suscripción de los contratos y la emisión de los decretos alcaldicios que los aprobaron. La demora en formalizar los instrumentos contractuales no se ajusta al principio de celeridad establecido en el artículo 7° de la ley N° 19.880 y genera incertidumbre respecto de la oportunidad en que los contratos adquirieron plena eficacia administrativa.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 4.2
+ Nombre: Implementación tardía y uso insuficiente del libro digital de servicios.
+
+Texto de la observación:
+ Se determinó que la plataforma digital destinada al seguimiento y control del contrato comenzó a utilizarse con un retraso superior a cinco meses respecto del plazo previsto en las bases técnicas. Además, al momento de la revisión solo presentaba dos registros, uno por cada componente del contrato. La situación evidencia el incumplimiento de las exigencias contractuales y limita la trazabilidad de las instrucciones, deficiencias, respuestas y medidas correctivas comunicadas durante la ejecución de la concesión.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 4.3
+ Nombre: Pago extemporáneo de facturas.
+
+Texto de la observación:
+ Se constató que dos facturas correspondientes a los servicios de mantención de áreas verdes y arbolado urbano fueron pagadas después de 51 días corridos, excediendo el plazo de 30 días establecido en las bases administrativas. Lo anterior tampoco se ajustó al artículo 79 bis del decreto N° 250, de 2004, vigente en el período auditado, ni al artículo 2° quáter de la ley N° 19.983, que regulan el pago oportuno a proveedores del Estado.
+
+Observación 8
+
+Acápite del informe: III. Examen de cuentas, numeral 6.1
+ Nombre: Multa en proceso correspondiente a la licitación ID N° 2699-47-LR23.
+
+Texto de la observación:
+ Se verificó que una multa de 5 UTM, originada por el incumplimiento de medidas de seguridad durante la ejecución del servicio, permanecía en tramitación sin resolución administrativa definitiva. La falta de conclusión del procedimiento impidió determinar oportunamente si correspondía confirmar, modificar o dejar sin efecto la sanción y, en su caso, cobrarla. La entidad deberá respaldar la resolución final y acreditar el ingreso efectivo de los recursos si la multa resulta procedente.
+
+Observación 9
+
+Acápite del informe: III. Examen de cuentas, numeral 7.1
+ Nombre: Multa no cobrada correspondiente a la licitación ID N° 2699-2-LR23.
+
+Texto de la observación:
+ Se constató que una multa de 5 UTM, notificada por la omisión de informar una irregularidad ocurrida durante la prestación del servicio, no había sido resuelta ni cobrada. El recurso presentado por la empresa concesionaria no fue respondido dentro del plazo de cinco días hábiles previsto en las bases administrativas, generándose un eventual perjuicio fiscal de $323.330. La falta de respuesta y cierre del procedimiento evidencia deficiencias en la supervisión contractual.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 7.3
+ Nombre: Falta de oportunidad en la resolución de informes de deficiencia.
+
+Texto de la observación:
+ Se verificó que cuatro anotaciones relacionadas con deficiencias de riego, limpieza, jardinería y reemplazo de vehículos no fueron tramitadas oportunamente por la inspección técnica. Las eventuales infracciones representaban multas por 12 UTM, equivalentes a $787.738. Aunque posteriormente se aceptaron las medidas correctivas y se determinó no cursar las sanciones, se mantuvo la observación respecto de la demora en concluir los procedimientos y comunicar oportunamente las decisiones adoptadas.
+
+Criterios de estilo identificados para el agente de redacción
+
+Los textos anteriores permiten incorporar al agente las siguientes regularidades del lenguaje institucional:
+
+Iniciar la condición con expresiones como“Se constató”, “Se verificó”, “Se comprobó”, “Se advirtió” o“Se determinó”.
+Precisar cantidades, períodos, montos, porcentajes y documentos examinados.
+Explicar por qué la situación representa una debilidad, incumplimiento o riesgo.
+Introducir el criterio con expresiones como“Lo expuesto no se ajusta”,“La situación descrita contraviene” o“Lo anterior no se condice”.
+Citar la norma, cláusula contractual, base administrativa, resolución o dictamen aplicable.
+Analizar la respuesta de la entidad antes de concluir si la observación se mantiene, subsana o levanta.
+Utilizar la fórmula“hecho consolidado no susceptible de regularizar para el período auditado” cuando la corrección posterior no modifica el incumplimiento original.
+Finalizar con una medida concreta, identificando responsable, documentación, sistema de seguimiento y plazo cuando corresponda.
+Mantener un tono objetivo, impersonal y respaldado documentalmente.
+Evitar atribuir intenciones o responsabilidades personales mientras no exista un procedimiento disciplinario que las determine.
+
+Municipalidad de Melipilla
+
+REFERENCIA N°: 115.015/2025
+ Informe Final N°: 60
+ Año: 2025
+ Entidad: Municipalidad de Melipilla
+ Materia: Auditoría al proceso de asignación, ejecución, control y pago de horas extraordinarias al personal de planta y contrata, durante el período comprendido entre el 1 de octubre de 2023 y el 31 de octubre de 2024. La revisión también comprendió los controles generales de los sistemas informáticos utilizados en dicho proceso.
+
+Nota: El informe no presenta un capítulo separado denominado “Examen de cuentas”. Por ello, se incluyen observaciones de control interno y examen de la materia auditada que inciden directamente en la procedencia, cálculo, autorización y pago de horas extraordinarias.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre de la observación: Falta de seguimiento a las recomendaciones efectuadas por la Dirección de Control.
+
+Texto ampliado de la observación:
+ Se constató que, al cierre de la fiscalización, la Dirección de Control no había realizado el seguimiento de las observaciones y recomendaciones formuladas en la auditoría operativa sobre pago de remuneraciones y licencias médicas, cuyos resultados fueron comunicados a la alcaldía y al concejo municipal mediante el oficio ordinario N° 181, de 16 de diciembre de 2024. Entre las medidas recomendadas se encontraban la elaboración de manuales para la sección de remuneraciones, la implementación de registros de asistencia vinculados a un sistema que determinara las horas extraordinarias y la emisión previa de los actos administrativos de programación y pago.
+
+El municipio indicó que el seguimiento se efectuaría durante 2025, en el marco de su plan anual de auditorías. No obstante, dicho instrumento solo contemplaba, en términos generales, el seguimiento de revisiones anteriores, sin identificar expresamente la auditoría examinada ni establecer un cronograma verificable. Por tratarse de medidas futuras y de una situación consolidada para el período auditado, se mantuvo la observación. Lo expuesto no se ajustó al principio 5.1 de la resolución exenta N° 1.962, de 2022, ni a los principios de control, responsabilidad y eficiencia establecidos en el artículo 3° de la ley N° 18.575. En consecuencia, el municipio deberá establecer un seguimiento sistemático, oportuno y documentado de las recomendaciones emitidas por su Dirección de Control.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.2
+ Nombre de la observación: Ausencia de revisiones con enfoque en tecnologías de la información.
+
+Texto ampliado de la observación:
+ Se advirtió que durante los años 2023 y 2024 la Dirección de Control no efectuó auditorías o revisiones con enfoque en tecnologías de la información respecto del sistema de remuneraciones y del sistema de registro de asistencia. La última revisión relacionada con el macroproceso de tecnologías de información correspondía al período 2016 y su informe había sido emitido en abril de 2017.
+
+La situación adquirió especial relevancia debido a las debilidades detectadas en la auditoría, entre ellas, el uso de planillas Excel, el ingreso manual de datos al sistema CAS-CHILE, la existencia de cuentas genéricas, usuarios activos pertenecientes a personas que ya no integraban la dotación municipal y sistemas tecnológicos obsoletos. El municipio informó que durante 2025 realizaría una auditoría de cumplimiento al proceso de aplicación de tecnologías de la información. Sin embargo, por tratarse de una medida futura y de un hecho consolidado, la observación se mantuvo. Se requirió considerar fiscalizaciones periódicas sobre seguridad de la información, sistemas de remuneraciones, controles de acceso, continuidad operativa y trazabilidad de las transacciones, de conformidad con el artículo 29, letra a), de la ley N° 18.695 y el principio 5.1 de la resolución exenta N° 1.962, de 2022.
+
+Observación 3
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.1
+ Nombre de la observación: Cálculo, control y pago mensual de horas extraordinarias mediante planillas Excel.
+
+Texto ampliado de la observación:
+ Se verificó que el proceso de extracción, registro, cálculo y revisión de las horas extraordinarias efectivamente realizadas por el personal municipal dependía de actividades manuales ejecutadas por funcionarios del Departamento de Recursos Humanos, mediante formularios y reportes preparados en planillas Excel. Aunque el programa de administración de asistencia obtenía las marcaciones de los relojes biométricos, no contaba con una funcionalidad que calculara automáticamente las horas extraordinarias.
+
+Posteriormente, el Departamento de Remuneraciones recibía dichas planillas, las estructuraba e ingresaba la información al módulo de remuneraciones del sistema CAS-CHILE. Esta modalidad exponía al municipio a errores de cálculo, modificaciones no autorizadas, pérdida de información y ausencia de trazabilidad, ya que los archivos no mantenían controles suficientes para asegurar la integridad y confiabilidad de los registros.
+
+El municipio informó la contratación de una nueva suite de gestión de personas y reloj biométrico, adjudicada mediante la licitación ID N° 2673-61-LQ24. Sin embargo, al encontrarse todavía en etapa de implementación, se mantuvo la observación. Se requirió informar el avance de la nueva plataforma, eliminar progresivamente el uso de planillas no protegidas y establecer controles transitorios sobre cálculo, revisión, autorización y pago de las horas extraordinarias.
+
+Observación 4
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.2
+ Nombre de la observación: Falencias en los controles de acceso a los sistemas de información.
+
+Texto ampliado de la observación:
+ La revisión de los parámetros de seguridad de CAS-CHILE, del Programa de Administración de Asistencia y de Active Directory permitió identificar debilidades en la duración máxima de las contraseñas, su complejidad, el historial de claves y el bloqueo por intentos fallidos de acceso. En CAS-CHILE y en el sistema de asistencia ninguno de esos parámetros cumplía con los criterios examinados. En Active Directory se cumplían los parámetros generales, salvo el bloqueo de cuentas por accesos fallidos.
+
+Estas deficiencias incrementaban el riesgo de acceso no autorizado a operaciones críticas, vulneración de credenciales, modificación de datos sensibles y afectación de la confidencialidad, disponibilidad e integridad de la información. La municipalidad señaló que el nuevo sistema de gestión de personas incorporaría herramientas para fortalecer la administración de cuentas y usuarios. Sin embargo, debido a que las medidas tendrían efecto futuro, se mantuvo lo observado.
+
+Se requirió que la nueva plataforma incluyera contraseñas robustas, caducidad, historial, bloqueo automático, trazabilidad y asignación individual de responsabilidades. Asimismo, la municipalidad deberá formalizar y difundir un procedimiento sobre creación, modificación, revisión y eliminación de accesos, conforme al decreto N° 83, de 2004, y a la norma técnica NCh-ISO 27002.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.1
+ Nombre de la observación: Deficiencias en la metodología de cálculo de horas extraordinarias del personal sujeto a turnos rotativos.
+
+Texto ampliado de la observación:
+ Se constató que la Municipalidad de Melipilla calculaba manualmente las horas extraordinarias del personal de la Dirección de Seguridad Pública e Inspección, cuyos funcionarios cumplían turnos rotativos entre lunes y domingo. La metodología utilizada no distinguía adecuadamente entre las horas que formaban parte de la jornada ordinaria fijada mediante turnos y aquellas realizadas fuera de dicha jornada.
+
+Lo anterior impedía comprobar si los pagos se habían ajustado a la jurisprudencia administrativa contenida en los dictámenes N°s 56.063 y 32.812, de 2007 y 2015, respectivamente. En efecto, el desempeño nocturno o en días sábado, domingo o festivos puede formar parte de la jornada ordinaria del personal sujeto a turnos, por lo que solo corresponde reconocer como extraordinario el tiempo que exceda la jornada habitual o la obligación mensual.
+
+La propia Dirección de Control ya había recomendado recalcular y solicitar la restitución de las horas indebidamente pagadas. La municipalidad informó la notificación de 27 funcionarios y la aprobación de un instructivo de remuneraciones. No obstante, por tratarse de medidas en curso, la observación se mantuvo. Se requirió perfeccionar la metodología, verificar individualmente las jornadas y continuar las gestiones de restitución cuando se acrediten pagos improcedentes.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.2
+ Nombre de la observación: Jornadas habituales y extraordinarias incompatibles con el debido descanso.
+
+Texto ampliado de la observación:
+ De los 140 funcionarios que integraron la muestra examinada, se comprobó que 50 registraron 100 o más horas extraordinarias mensuales, observándose casos de hasta 170 horas en un mes. Esa carga adicional implicaba que una jornada ordinaria de 44 horas semanales podía convertirse, en promedio, en una jornada efectiva de aproximadamente 74 horas semanales.
+
+La reiteración de tales jornadas podía afectar la salud, el descanso y el desempeño del personal, además de comprometer la eficiencia y continuidad del servicio municipal. La entidad debía compatibilizar las necesidades institucionales con la obligación de asegurar condiciones que permitan conservar la salud, limitar razonablemente el tiempo de trabajo y garantizar el descanso, conforme al artículo 5° de la Constitución Política y al artículo 7°, letra d), del Pacto Internacional de Derechos Económicos, Sociales y Culturales.
+
+El municipio informó que a partir de abril de 2025 estableció límites máximos para los trabajos extraordinarios, posteriormente ajustados según funciones y turnos. No obstante, al corresponder a acciones futuras respecto de una situación consolidada, se mantuvo la observación. Se requirió establecer límites y controles permanentes, monitorear situaciones reiteradas y justificar las necesidades impostergables que originen jornadas extraordinarias extensas.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.3
+ Nombre de la observación: Incumplimiento del principio de abstención en decretos de pago de horas extraordinarias.
+
+Texto ampliado de la observación:
+ Se constató que quienes ejercieron el cargo de administrador municipal, en calidad titular o subrogante, firmaron decretos alcaldicios que autorizaban el pago de horas extraordinarias correspondientes a distintos meses de 2023 y 2024, figurando además como beneficiarios de los pagos autorizados en esos mismos actos.
+
+La intervención de una autoridad en la aprobación de un beneficio económico propio comprometía la imparcialidad del procedimiento y no se ajustaba a los principios de probidad y abstención. El municipio informó que había impartido instrucciones para que los actos relacionados con las horas extraordinarias del administrador municipal fueran autorizados por la alcaldía. Sin embargo, reconoció que, en ciertos períodos posteriores, el administrador volvió a suscribir decretos que comprendían su propio cargo.
+
+Como las explicaciones confirmaron el incumplimiento y las medidas anunciadas tendrían efecto futuro, se mantuvo la observación. Se exigió separar la tramitación de los decretos aplicables al administrador municipal y asegurar que la autoridad beneficiaria no intervenga en su aprobación, conforme al artículo 62, N° 6, de la ley N° 18.575, la ley N° 20.880 y el principio de abstención.
+
+Observación 8
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.4
+ Nombre de la observación: Falta de oportunidad en la dictación de los decretos que autorizan horas extraordinarias.
+
+Texto ampliado de la observación:
+ Se comprobaron deficiencias en la oportunidad con que fueron emitidos los decretos alcaldicios que autorizaron la ejecución de horas extraordinarias. Los respectivos actos administrativos fueron tramitados después del inicio de los trabajos, pese a que la autorización debe emitirse previamente, individualizando al personal, el número de horas y el período correspondiente.
+
+La municipalidad informó que el Departamento de Recursos Humanos debía emitir los decretos de programación a más tardar el día 25 de cada mes y procurar que estuvieran totalmente tramitados antes del último día del período. Sin embargo, reconoció que los tiempos del proceso de firmas impidieron que esos actos fueran formalizados oportunamente.
+
+La regularización posterior no reemplaza el acto previo requerido para ordenar trabajos extraordinarios ni subsana el incumplimiento producido en el período auditado. Por ello, se mantuvo la observación, requiriéndose fortalecer la programación, establecer responsables y plazos internos y asegurar que la autorización se encuentre totalmente tramitada antes de la ejecución de las labores, conforme a los artículos 7° de la ley N° 19.880 y 8° de la ley N° 18.575.
+
+Observación 9
+
+Acápite del informe: II. Examen de la materia auditada, numeral 4.1
+ Nombre de la observación: Ingreso manual de valores de horas extraordinarias al sistema CAS-CHILE.
+
+Texto ampliado de la observación:
+ Se constató que, en noviembre y diciembre de 2023 y entre enero y mayo de 2024, los analistas de remuneraciones ingresaron manualmente al sistema CAS-CHILE los montos mensuales en pesos correspondientes a horas extraordinarias. Este procedimiento alcanzó 695 registros por un total de $134.691.412.
+
+El ingreso manual de los valores, aun cuando existiera una revisión de jefatura, implicaba riesgos de digitación, modificación no autorizada, falta de trazabilidad e impacto en la información contable y presupuestaria. La municipalidad informó que la nueva suite de gestión de personas automatizaría el cálculo, validación y registro de las horas extraordinarias, eliminando la necesidad de cargar manualmente los montos en CAS-CHILE.
+
+Debido a que la plataforma aún estaba en implementación y las medidas tendrían efecto futuro, se mantuvo la observación. Se requirió asegurar que el nuevo sistema integre asistencia, cálculo y remuneraciones, además de establecer controles alternativos mientras continúe utilizándose la herramienta anterior.
+
+Observación 10
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5
+ Nombre de la observación: Falta de control sobre la jornada ordinaria y extraordinaria efectivamente cumplida.
+
+Texto ampliado de la observación:
+ La revisión de los registros de asistencia y de imágenes de cámaras de seguridad permitió advertir que cinco funcionarios ingresaban desde el exterior del edificio municipal únicamente para registrar su salida en el reloj control y luego abandonaban las dependencias. Asimismo, se comprobó que otras tres personas se retiraban durante la jornada, regresaban posteriormente para efectuar el marcaje de salida y volvían a abandonar el recinto.
+
+El municipio informó que no existían comisiones de servicio ni cometidos funcionarios que justificaran el desempeño de labores externas en las fechas examinadas. La falta de permanencia en el lugar habitual de trabajo y la insuficiente supervisión de las jefaturas vulneraban la obligación de cumplir la jornada y el deber de control jerárquico establecidos en los artículos 58, letra d), y 61, letra a), de la ley N° 18.883, además de los principios de responsabilidad, eficacia, eficiencia y control.
+
+La municipalidad instruyó una investigación sumaria, pero no aportó antecedentes que desvirtuaran los hechos. La CGR dispuso continuar con el proceso disciplinario y requirió la remisión del expediente original. También ordenó formalizar procedimientos que aseguren el cumplimiento efectivo de la jornada ordinaria y extraordinaria, además de considerar actividades sobre integridad, probidad y comportamiento ético.
+
+2. Municipalidad de Estación Central
+
+REFERENCIA N°: 115.021/2025
+ Informe Final N°: 521
+ Año del informe: 2025
+ Fecha de remisión: abril de 2026
+ Entidad: Municipalidad de Estación Central
+ Materia: Auditoría a las acciones dispuestas en materias de seguridad pública, prevención del delito y recuperación de espacios públicos, durante 2024, incluyendo gastos financiados con recursos propios y fondos transferidos por otras entidades.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre de la observación: Ausencia o insuficiencia de ordenanzas en materias de seguridad pública y comercio ilegal.
+
+Texto ampliado de la observación:
+ Se observó que el municipio no había regulado suficientemente, mediante ordenanza, la incautación, acopio, custodia y destino de mercaderías y especies relacionadas con el comercio ilegal desarrollado en bienes nacionales de uso público. Aunque la entidad señaló que mantenía vigente la ordenanza N° 39, de 2020, relativa al comercio estacionado, ambulante y temporal, ese instrumento no contemplaba las materias específicas vinculadas al decomiso, almacenamiento o disposición de bienes.
+
+Tampoco se acreditó la dictación de una ordenanza que integrara las materias de convivencia vecinal y seguridad pública comunal previstas en el artículo 104 E, letra c), de la ley N° 18.695. Las ordenanzas sobre ruidos molestos y actividad comercial en la vía pública no resultaron suficientes para dar cumplimiento integral a esa obligación.
+
+Por ello, se mantuvo la observación y se requirió modificar la ordenanza vigente o aprobar otro instrumento que regule el procedimiento de incautación, recepción, registro, custodia y destino final de los bienes, junto con elaborar una ordenanza sobre convivencia y seguridad pública comunal, considerando la opinión del Consejo Comunal de Seguridad Pública.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.1
+ Nombre de la observación: Deficiencias en el control y resguardo de especies decomisadas.
+
+Texto ampliado de la observación:
+ La municipalidad no acreditó la existencia de un registro integral, manual o electrónico, que permitiera controlar las especies y mercaderías decomisadas, desde su recepción hasta su destino final. Tampoco dejó constancia suficiente de las cantidades, descripción, responsables, traslados, almacenamiento, destrucción o entrega a otros organismos.
+
+Además, no se comprobó la existencia de recintos con medidas adecuadas de seguridad, tales como acceso restringido, control de existencias, segregación de especies, registro fotográfico y custodia formal. Durante una inspección se observó que máquinas de juego y carros de supermercado se encontraban en un patio y no en una bodega protegida.
+
+El municipio señaló que disponía de actas y de un protocolo de decomisos. Sin embargo, dicho protocolo no se encontraba aprobado mediante acto administrativo y no definía con precisión los lugares de resguardo. En consecuencia, se mantuvieron las observaciones y se requirió implementar un registro único, formalizar el protocolo y habilitar recintos adecuados para la custodia de los bienes.
+
+Observación 3
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.3
+ Nombre de la observación: Deficiencias en el registro, trazabilidad y atención de denuncias ciudadanas.
+
+Texto ampliado de la observación:
+ Se observó que la plataforma KOBO, utilizada para registrar denuncias y operativos de seguridad, no permitía vincular de manera suficiente cada requerimiento ciudadano con la acción municipal adoptada. El sistema tampoco facilitaba comprobar si la denuncia había sido atendida, el tiempo transcurrido, la unidad responsable, el resultado del procedimiento ni las actuaciones adicionales realizadas, como decomisos, derivaciones, denuncias judiciales, coordinaciones policiales o atenciones de salud.
+
+También se detectaron registros incompletos o deficientes, con omisión de la fuente de ingreso, identificación de la persona operadora, tipo de emergencia y dirección exacta. En algunos casos solo constaba el nombre de una calle, sin numeración ni referencias. Estas deficiencias afectaban la calidad de la información, la reportabilidad, la planificación de operativos y la toma de decisiones.
+
+La municipalidad informó que utilizaba un grupo institucional de mensajería y un protocolo de flujo operativo. No obstante, no acreditó la formalización del protocolo ni la integración de esos antecedentes con KOBO. Se requirió sancionar el procedimiento, establecer estados de tramitación, plazos y responsables, y dejar evidencia de los casos atendidos, pendientes o no ejecutados.
+
+Observación 4
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.4
+ Nombre de la observación: Falta de monitoreo y seguimiento del Plan Comunal de Seguridad Pública.
+
+Texto ampliado de la observación:
+ Del examen de las actas del Consejo Comunal de Seguridad Pública correspondientes a 2024 se advirtió que no se efectuó un seguimiento sistemático de las medidas del Plan Comunal de Seguridad Pública 2021-2024. Las actas no permitían verificar los avances, resultados, dificultades, responsables, plazos o medidas correctivas relativas a los propósitos, componentes y priorizaciones del plan.
+
+El municipio sostuvo que el consejo podía tratar materias emergentes distintas de las incluidas en el plan y que la ejecución correspondía a la Dirección de Seguridad. Sin embargo, ello no desvirtuó la obligación específica del consejo de efectuar el seguimiento y monitoreo prevista en el artículo 104 E, letra d), de la ley N° 18.695.
+
+Como no se aportaron antecedentes que demostraran el cumplimiento de esa obligación y el plan ya había expirado, se mantuvo la observación. Se requirió que los futuros planes cuenten con mecanismos periódicos de seguimiento, indicadores, responsables, plazos, evaluación de resultados y constancia expresa de las decisiones adoptadas por el consejo.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.6
+ Nombre de la observación: Cumplimiento de metas del Plan Comunal de Seguridad Pública no acreditado.
+
+Texto ampliado de la observación:
+ La municipalidad informó en la cuenta pública de 2024 y ante el Consejo Comunal de Seguridad Pública que las cinco priorizaciones del plan habían alcanzado niveles de cumplimiento de entre 83% y 100%. Sin embargo, no proporcionó un detalle suficiente de las tareas ejecutadas, los cálculos empleados ni los antecedentes que respaldaban dichas cifras.
+
+Aunque se remitieron fotografías, informes, actas, solicitudes de materiales y otros documentos, en general no se identificaba con qué priorización, componente o indicador se relacionaban. Algunos documentos estaban incompletos, no contenían firmas, no identificaban responsables o correspondían a actividades desarrolladas durante 2025, por lo que no podían vincularse al plan 2021-2024.
+
+El informe de gestión anual entregado en la respuesta tampoco permitió reconstruir la trazabilidad de cada porcentaje. Por ello, se mantuvo la observación y se exigió entregar el detalle de las acciones, respaldos, fórmulas y fuentes empleadas para calcular el cumplimiento de cada priorización, de acuerdo con los principios de eficiencia y eficacia de la ley N° 18.575.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5
+ Nombre de la observación: Cámaras de televigilancia no operativas durante períodos prolongados.
+
+Texto ampliado de la observación:
+ Se determinó que las unidades vecinales N°s 11 y 8, que concentraban la mayor cantidad de delitos durante 2024, disponían de 40 cámaras, pero 19 se encontraban fuera de servicio. En otras unidades vecinales con alta ocurrencia delictual existían 17 cámaras, de las cuales 9 no estaban operativas.
+
+Entre mayo de 2024 y junio de 2025, el número de cámaras instaladas aumentó de 63 a 126. No obstante, en promedio, un 58% de los dispositivos permaneció fuera de servicio. En determinados meses la inoperatividad llegó al 67%, 62% y 71%. Algunas fallas, asociadas a obsolescencia, daños eléctricos, accidentes, vandalismo o problemas de conectividad, permanecieron por más de un año.
+
+El municipio reconoció los porcentajes, aunque explicó que estaba atravesando un proceso de expansión tecnológica. Debido a que los dispositivos seguían fuera de servicio, se mantuvo la observación. Se requirió elaborar un plan de acción con diagnóstico, prioridad territorial, responsables, costos y plazos de reparación o reemplazo, junto con medidas de mantenimiento preventivo y monitoreo permanente.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7.2, 7.3 y 7.4
+ Nombre de la observación: Bajo avance y atrasos en la ejecución del programa Vigilancia Eje Alameda.
+
+Texto ampliado de la observación:
+ El convenio de transferencia suscrito con el Gobierno Regional Metropolitano contemplaba recursos por $4.504.976.896. Al 31 de diciembre de 2024 se habían transferido $2.250.000.000, pero el municipio solo había ejecutado $415.082.214, equivalentes al 18,4% del monto recibido.
+
+También se comprobaron atrasos en la contratación del personal y en la adjudicación de servicios de arriendo, incluyendo equipamiento, sistemas geoespaciales, drones, vehículos y acciones de difusión. Parte importante de los recursos permanecía sin utilización y no se había solicitado oportunamente una modificación del plazo de 24 meses.
+
+Las explicaciones relativas a procesos de selección, ajustes jurídicos y licitaciones no justificaron suficientemente la demora. Por ello, se mantuvieron las observaciones y se requirió concretar las contrataciones, definir con el Gobierno Regional la devolución, reasignación o reprogramación de los fondos e instruir un procedimiento disciplinario para determinar eventuales responsabilidades administrativas.
+
+Observación 8
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7.7
+ Nombre de la observación: Demora en el traspaso de fondos a la cuenta corriente exclusiva.
+
+Texto ampliado de la observación:
+ Se comprobó que transferencias del Gobierno Regional por $5.000.000 y $1.276.062.148 fueron trasladadas a la cuenta corriente exclusiva del programa con retrasos de 141 y 48 días, respectivamente. Una tercera transferencia por $968.937.852 fue traspasada con 402 días de atraso.
+
+Durante diversos períodos, el saldo disponible en la cuenta corriente general del municipio era inferior a los recursos recibidos en administración. En mayo de 2024 se constató una diferencia de al menos $190.332.298 y, entre junio y julio, una diferencia promedio de $331.374.139, alcanzando un máximo de $520.634.298. Ello generó el riesgo de que los fondos hubieran sido utilizados transitoriamente para fines municipales diferentes del programa.
+
+Las razones entregadas, vinculadas a carga operativa, auditorías simultáneas y ajustes contables, no desvirtuaron los atrasos ni aclararon las diferencias. Se requirió depositar íntegra y oportunamente los recursos en las cuentas exclusivas e instruir un procedimiento disciplinario.
+
+Observación 9
+
+Acápite del informe: III. Examen de cuentas, numeral 18, letra a)
+ Nombre de la observación: Rendiciones extemporáneas del Programa Vigilancia Eje Alameda.
+
+Texto ampliado de la observación:
+ Se comprobó que las rendiciones de gastos correspondientes a distintos meses de 2024 no fueron remitidas al Gobierno Regional dentro del plazo de 15 días hábiles administrativos siguiente al mes respectivo. Parte de los informes fue recibida recién en diciembre de 2024 y otra durante enero, febrero y abril de 2025.
+
+El municipio reconoció las demoras y las atribuyó a dificultades para reunir antecedentes, errores en boletas e informes de actividades y falta de estandarización documental. Como medidas correctivas anunció la centralización de los antecedentes, designación de un coordinador, formatos uniformes, calendarios de corte y capacitación del personal.
+
+Dado que las medidas anunciadas no alteraban la extemporaneidad producida, la observación se mantuvo. Se requirió acreditar la implementación efectiva de esas acciones y asegurar el cumplimiento del artículo 20 de la resolución N° 30, de 2015.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 18, letras b) y c)
+ Nombre de la observación: Rendiciones observadas y errores en la exposición de los recursos transferidos.
+
+Texto ampliado de la observación:
+ Las rendiciones de junio a octubre de 2024, por $21.589.316, fueron aprobadas por el Gobierno Regional. Sin embargo, los gastos de noviembre y diciembre, por $392.451.648, fueron observados sin que se acreditara su subsanación definitiva.
+
+Adicionalmente, los informes mensuales consignaban recursos recibidos por $1.281.062.148, pese a que al mes de junio de 2024 las transferencias acumuladas ascendían a $2.250.000.000. La diferencia de $968.937.852 no fue incorporada en las rendiciones, afectando la integridad de la información financiera.
+
+El municipio atribuyó la situación al uso de formatos físicos y dificultades de trazabilidad, pero las explicaciones no subsanaron el error. Se exigió responder al Gobierno Regional, acreditar la aprobación de las partidas observadas y asegurar que los informes futuros incluyan la totalidad de los ingresos, respaldados por comprobantes auténticos, conforme al artículo 2°, letra b), de la resolución N° 30, de 2015.
+
+3. Municipalidad de San Ramón
+
+REFERENCIA N°: 115.020/2025
+ Informe Final N°: 367
+ Año: 2025
+ Entidad: Municipalidad de San Ramón
+ Materia: Auditoría al proceso de otorgamiento de licencias de conducir y a los ingresos percibidos por ese concepto, durante el período comprendido entre el 1 de enero de 2023 y el 30 de septiembre de 2024. El universo informado fue de 11.410 licencias, asociadas a ingresos por $593.210.817, examinándose una muestra analítica de 180 expedientes por $11.257.695.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1, letra b)
+ Nombre de la observación: Falta de control integral sobre los formularios foliados de licencias de conducir.
+
+Texto ampliado de la observación:
+ Se advirtió que la Dirección de Tránsito y Transporte Público no mantenía un mecanismo integral para controlar los formularios de licencias de conducir. Aunque la Tesorería Municipal registraba las entregas en un libro, ese antecedente no contenía la cantidad total adquirida, los rangos de folios recibidos, los formularios distribuidos, utilizados, anulados, no emitidos y disponibles.
+
+Tampoco existía un registro que permitiera efectuar recuentos físicos y conciliar los formularios con las licencias emitidas en el sistema. La falta de trazabilidad de especies valoradas generaba el riesgo de pérdida, utilización irregular o emisión fraudulenta de licencias.
+
+El municipio señaló que CAS-CHILE mantenía registros automáticos de licencias otorgadas y anuladas, pero no acompañó antecedentes que acreditaran un control completo. Se mantuvo la observación y se exigió crear un registro único de folios que identifique recepción, custodia, entrega, emisión, anulación, saldo y responsable, conforme al artículo 13 del decreto N° 170, de 1986.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.1
+ Nombre de la observación: Falta de supervisión y control sobre el proceso de otorgamiento de licencias de conducir.
+
+Texto ampliado de la observación:
+ Se observó una debilidad transversal de supervisión, debido a que se detectaron licencias otorgadas sin cumplir requisitos de los exámenes psicométricos y sensométricos, expedientes inexistentes o incompletos, deficiencias en la calificación de la idoneidad moral y licencias tramitadas a personas eventualmente inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos.
+
+Estos hallazgos demostraron que no existía una revisión jerárquica suficiente antes de aprobar y entregar la licencia. El municipio informó la instalación de cámaras en las áreas de exámenes médicos, psicométricos y teóricos. Sin embargo, las cámaras no constituyen por sí solas un procedimiento de control previo sobre el cumplimiento legal, documental y técnico de cada expediente.
+
+Por ello, se mantuvo la observación y se exigió crear un procedimiento formal que defina responsables, listas de verificación, segregación de funciones, evidencia de revisión y autorización final, conforme al artículo 11 de la ley N° 18.575 y a los principios 3.2 y 7.2 de la resolución exenta N° 1.962, de 2022.
+
+Observación 3
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.2
+ Nombre de la observación: Falencias en los controles de acceso al sistema CAS-CHILE.
+
+Texto ampliado de la observación:
+ La revisión del sistema CAS-CHILE y de Active Directory permitió advertir debilidades en la duración, complejidad e historial de contraseñas, además de la falta de bloqueo por intentos fallidos. También se comprobó que el sistema permitía abrir simultáneamente más de una sesión utilizando una misma cuenta, sin generar alertas.
+
+Estas condiciones exponían a la municipalidad al uso compartido de credenciales, acceso no autorizado, modificación de información sensible y pérdida de trazabilidad respecto de la persona que ejecutó cada operación. El municipio informó que solicitó al proveedor CAS-CHILE implementar un módulo de seguridad y acreditó el ajuste de la política de bloqueo en Active Directory. No obstante, el módulo de CAS-CHILE aún no se encontraba habilitado.
+
+En consecuencia, se mantuvo la observación. Se requirió implementar el módulo, fortalecer los parámetros de contraseñas y evaluar alertas para sesiones simultáneas, junto con revisiones periódicas de perfiles y privilegios.
+
+Observación 4
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3
+ Nombre de la observación: Deficiente resguardo de las carpetas individuales de los conductores.
+
+Texto ampliado de la observación:
+ En una inspección realizada a los dos contenedores utilizados como bodegas se constató la existencia de expedientes y documentos personales apilados en el suelo, sobre estantes y dentro de cajas, sin estar incorporados a sus carpetas individuales. También se observaron licencias vencidas y antecedentes separados de los expedientes, desordenados y en mal estado.
+
+Las condiciones descritas no permitían asegurar el resguardo fiel de los antecedentes ni una recuperación oportuna de la información. Lo anterior vulneró el artículo 23 de la ley N° 18.290 y el artículo 15 del decreto N° 170, de 1986, que obligan a conservar archivados los antecedentes requeridos para otorgar licencias y sus modificaciones.
+
+El municipio informó que inició un proceso de reordenamiento y digitalización de expedientes de 2019 a 2022. Como las acciones aún estaban en desarrollo, la observación se mantuvo. Se requirió concluir el ordenamiento, continuar la digitalización y acreditar el avance y las condiciones de seguridad de los archivos.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 4.7
+ Nombre de la observación: Licencias otorgadas sin acreditar el cumplimiento de exámenes psicométricos y sensométricos.
+
+Texto ampliado de la observación:
+ Se detectaron licencias concedidas sin acreditar adecuadamente la realización o aprobación de pruebas de coordinación motriz, agudeza visual, perimetría, visión de profundidad, recuperación de encandilamiento, visión de colores y audiometría. También se encontró un expediente sin respaldo suficiente del examen psicosensométrico.
+
+En varios casos las pruebas aparecían aprobadas, pero los campos de resultados estaban vacíos o registraban valor cero. El municipio atribuyó parte de las inconsistencias a desconexiones del sistema o errores del software, informando que fortalecería la supervisión y efectuaría cambios en la plataforma. Sin embargo, no acompañó evidencia suficiente que permitiera acreditar los exámenes cuestionados.
+
+Por tratarse de hechos consolidados, se mantuvieron las observaciones. Se exigió validar los resultados antes de emitir cada licencia, conservar los respaldos, ajustar la plataforma y remitir el acto administrativo que instruyera la investigación sumaria anunciada.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5.1
+ Nombre de la observación: Inexistencia de expedientes individuales de licencias de conducir.
+
+Texto ampliado de la observación:
+ De las 180 carpetas solicitadas, 27 no fueron entregadas porque no se encontraban en las bodegas destinadas a su resguardo. En la etapa de respuesta el municipio localizó 10 expedientes, pero solo uno contenía todos los antecedentes requeridos. En consecuencia, permanecieron 26 casos sin expediente completo o disponible.
+
+La ausencia de las carpetas impidió validar la legalidad del otorgamiento, los exámenes rendidos, las firmas, declaraciones, documentos de identidad y demás antecedentes necesarios. La situación vulneró los artículos 23 de la ley N° 18.290 y 15 del decreto N° 170, de 1986, además de los principios de control, responsabilidad, eficiencia y eficacia.
+
+La observación se mantuvo y se requirió instruir un procedimiento disciplinario, además de asegurar que cada licencia cuente con un expediente íntegro, trazable y debidamente resguardado.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 6.1
+ Nombre de la observación: Otorgamiento de licencias de conducir a personas condenadas.
+
+Texto ampliado de la observación:
+ Del cruce de información con los registros administrados por el Servicio de Registro Civil e Identificación se determinó que 73 personas a quienes se otorgaron licencias durante 2023 y 2024 registraban condenas que debían ser consideradas en la calificación de la idoneidad moral.
+
+Conforme a los artículos 13, 14, 16 y 17 de la ley N° 18.290, el director de tránsito debe evaluar las condenas dictadas dentro de los cinco años anteriores y rechazar la solicitud cuando no se acredite la idoneidad moral. El municipio señaló que dependía de los certificados disponibles en la plataforma del Servicio de Registro Civil y que no contaba con herramientas adicionales. Sin embargo, no aportó antecedentes que desvirtuaran los casos observados.
+
+La observación se mantuvo y se requirió incorporar al manual de procedimientos controles específicos para documentar la revisión y decisión de la autoridad, con estricta sujeción al artículo 16 de la ley N° 18.290.
+
+Observación 8
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7
+ Nombre de la observación: Licencias tramitadas a personas inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos.
+
+Texto ampliado de la observación:
+ Se constató que la municipalidad tramitó licencias a 55 contribuyentes que eventualmente mantenían una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos al momento del trámite. Los certificados examinados contenían la fecha de incorporación al registro, pero no permitían establecer claramente la fecha de eliminación.
+
+El artículo 33 de la ley N° 21.389 obliga a consultar en línea el registro y, si la persona aparece como deudora, informar dicha circunstancia y no dar curso a la solicitud, salvo que exista una autorización judicial en los términos legalmente establecidos.
+
+La municipalidad confirmó que actualmente realizaba la consulta, pero no aportó antecedentes para desvirtuar los casos examinados. Se mantuvo la observación, requiriéndose abstenerse de otorgar licencias mientras subsista la inscripción vigente, conservar evidencia de la consulta e instruir un procedimiento disciplinario para determinar eventuales responsabilidades.
+
+Observación 9
+
+Acápite del informe: III. Examen de cuentas, numeral 16
+ Nombre de la observación: Cobros superiores, inferiores y no contemplados en las ordenanzas municipales.
+
+Texto ampliado de la observación:
+ Al comparar los montos cobrados por licencias de conducir con las ordenanzas vigentes, se comprobaron diferencias por un total de $1.742.335. Se detectaron cobros superiores e inferiores a los derechos reglamentados y, dentro de ese monto, $277.903 correspondían a conceptos que no estaban contemplados en las ordenanzas locales.
+
+La aplicación de valores superiores generó una percepción improcedente de recursos, mientras que los cobros inferiores pudieron producir un detrimento patrimonial municipal. La situación afectó los principios de legalidad, equidad y certeza jurídica y no se ajustó al decreto ley N° 3.063, de 1979, ni a los artículos 3° y 5° de la ley N° 18.575.
+
+Como el municipio solo informó que revisaría las operaciones y no acreditó su regularización, la observación se mantuvo. Se requirió devolver o compensar los montos cobrados indebidamente, corregir los valores y establecer responsabilidades administrativas mediante el procedimiento disciplinario correspondiente.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 17
+ Nombre de la observación: Diferencia en los ingresos informados por Tránsito y Contabilidad.
+
+Texto ampliado de la observación:
+ Se verificó que la Dirección de Tránsito y Transporte Público informó ingresos por licencias de conducir por $629.504.351, mientras que el Departamento de Contabilidad y Presupuesto registró $674.435.749. La diferencia ascendió a $44.931.398 y no fue aclarada durante la auditoría.
+
+La discrepancia reveló deficiencias de conciliación entre el sistema operativo de licencias y la contabilidad municipal, afectando la representación fiel, integridad y exactitud de la información financiera conforme a la resolución N° 3, de 2020. El municipio confirmó la diferencia y señaló que efectuaría una revisión registro por registro, dado que el sistema de licencias no emitía un listado de ingresos conciliado con contabilidad.
+
+Como la revisión permanecía pendiente, la observación se mantuvo. Se requirió remitir el resultado del análisis, explicar el origen de la diferencia y establecer un procedimiento periódico de conciliación entre licencias emitidas, derechos cobrados, ingresos de tesorería y registros contables.
+
+
+Municipalidad de Lo Prado
+
+REFERENCIA N°: 115.023/2025
+ Informe Final N°: 433
+ Año: 2025
+ Entidad: Municipalidad de Lo Prado
+ Materia: Auditoría a la planificación y ejecución de acciones en materia de seguridad pública, prevención del delito y recuperación de espacios públicos, durante el período comprendido entre el 1 de enero y el 31 de diciembre de 2024. También se examinaron gastos financiados con recursos propios y de terceros.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre de la observación: Carencia de instrumentos de programación de actividades operativas de seguridad pública.
+
+Texto ampliado de la observación:
+ Se verificó que la Dirección de Seguridad Pública no disponía de un instrumento de programación temporal que identificara las actividades operativas específicas que debían ejecutarse, tales como fiscalizaciones al comercio establecido y ambulante, retiro de instalaciones precarias, limpieza de espacios ocupados por personas en situación de calle, eliminación de microbasurales y procedimientos de copamiento territorial. Tampoco se encontraban individualizados los responsables, zonas de cobertura, fechas, frecuencias, indicadores, medios de verificación y mecanismos de seguimiento.
+
+La ausencia de una planificación formal impedía comprobar si las actividades ejecutadas correspondían a las necesidades previamente identificadas, si se cumplían las metas institucionales y si los recursos humanos y materiales eran distribuidos adecuadamente. La situación no se ajustó al artículo 5° de la resolución exenta N° 1.962, de 2022, que exige establecer y ejecutar actividades de control apropiadas, efectivas y consistentes con una planificación.
+
+La entidad reconoció la situación e informó que había instruido la elaboración de una programación para 2026 y de un instrumento transitorio para 2025. También remitió un documento preliminar con despliegues, actividades, indicadores y unidades responsables. Sin embargo, como el instrumento se encontraba en proceso de formalización y tendría aplicación futura, la observación se mantuvo. Se requirió concluir y sancionar la planificación, acreditar su aprobación y someterla a supervisión de las direcciones de Administración y Finanzas y de Control.
+
+Observación 2
+
+Acápite del informe: II. Examen de la materia auditada, numeral 2.1
+ Nombre de la observación: Plan comunal de seguridad pública aprobado extemporáneamente.
+
+Texto ampliado de la observación:
+ Se constató que el Plan Comunal de Seguridad Pública 2021-2025 fue aprobado por el concejo municipal el 7 de enero de 2022 y sancionado mediante decreto alcaldicio de 10 de enero del mismo año, es decir, aproximadamente un año después del inicio de su período de vigencia. La aprobación tardía impidió que durante 2021 existiera un instrumento de gestión formalmente sancionado que estableciera objetivos, metas, acciones, compromisos y mecanismos de control.
+
+La municipalidad señaló que durante 2021 utilizó un plan transitorio, elaborado por la Dirección de Seguridad Pública y presentado a la Secretaría Comunal de Planificación. Sin embargo, ese documento no fue aprobado mediante el acto administrativo correspondiente, por lo que no podía reemplazar al plan exigido legalmente.
+
+La situación contravino el artículo 82, letra a), de la ley N° 18.695 y los artículos 3°, 5° y 7° de la ley N° 19.880, además del deber de celeridad establecido en el artículo 8° de la ley N° 18.575. Como la aprobación tardía constituía un hecho consolidado no susceptible de regularizar para el período examinado, se mantuvo la observación. Se requirió que los próximos planes sean elaborados, sometidos al concejo y formalizados antes del comienzo de su respectiva vigencia.
+
+Observación 3
+
+Acápite del informe: II. Examen de la materia auditada, numeral 2.3
+ Nombre de la observación: Falta de envío oportuno del plan comunal de seguridad pública a las entidades legalmente previstas.
+
+Texto ampliado de la observación:
+ Se verificó que el municipio no remitió oportunamente el Plan Comunal de Seguridad Pública 2021-2025 a la Subsecretaría de Prevención del Delito, al Consejo Regional de Seguridad Pública ni al Delegado Presidencial Regional. En el sistema administrado por la subsecretaría solamente constaba una versión en borrador cargada el 26 de octubre de 2022, junto con el acuerdo del concejo municipal, pero no el decreto alcaldicio que aprobó formalmente el instrumento.
+
+La municipalidad aportó un correo electrónico que acreditaba el ingreso del plan al sistema de la subsecretaría. Sin embargo, ese envío había sido efectuado más de nueve meses después de su aprobación. Tampoco se acreditó su remisión al Consejo Regional de Seguridad Pública ni al Delegado Presidencial Regional.
+
+Lo observado incumplió el inciso penúltimo del artículo 104 F de la ley N° 18.695, que establece un plazo de diez días desde la aprobación para remitir el plan a las entidades señaladas. En atención a que la regularización posterior no eliminó la extemporaneidad ni acreditó la entrega a todos los organismos destinatarios, la observación se mantuvo. Se requirió que los futuros planes sean remitidos íntegramente, dentro de plazo y dejando evidencia documental de su recepción.
+
+Observación 4
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.3
+ Nombre de la observación: Omisión de sesiones mensuales del Consejo Comunal de Seguridad Pública.
+
+Texto ampliado de la observación:
+ Del examen de las actas y demás antecedentes del Consejo Comunal de Seguridad Pública se comprobó que durante 2024 solo se realizaron seis sesiones, sin evidenciarse reuniones en febrero, marzo, abril, mayo, octubre y diciembre. Tampoco fue posible comprobar que en cada semestre se hubiera destinado una sesión a recoger la opinión de las instituciones integrantes acerca de las acciones necesarias para mejorar la seguridad pública y avanzar en los compromisos del plan comunal.
+
+La situación incumplió el artículo 104 D de la ley N° 18.695, que obliga a convocar al consejo, como mínimo, una vez al mes. La omisión redujo las posibilidades de coordinación interinstitucional, seguimiento de compromisos y adopción oportuna de medidas comunales.
+
+La entidad informó que había establecido procedimientos de convocatoria y registro y que se encontraba en desarrollo una investigación sumaria. Sin embargo, tales acciones eran posteriores y no permitían regularizar las sesiones omitidas. Por consiguiente, la observación se mantuvo y se requirió implantar un calendario anual, responsables de convocatoria, mecanismos de reemplazo, control de asistencia, elaboración de actas y reporte oportuno a la Subsecretaría de Prevención del Delito.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3.6
+ Nombre de la observación: Conformación incompleta del Consejo Comunal de Seguridad Pública.
+
+Texto ampliado de la observación:
+ Se determinó que durante 2024 el Consejo Comunal de Seguridad Pública no contó con representantes de Gendarmería de Chile ni del Servicio Nacional de Reinserción Social Juvenil. Tampoco existía evidencia de su participación en las sesiones celebradas durante ese período.
+
+La conformación incompleta contravino el artículo 104 B, letras h) e i), de la ley N° 18.695 y las orientaciones aprobadas mediante la resolución exenta N° 442, de 2021, que contemplan la participación de los miembros permanentes y la posibilidad de gestionar representantes subrogantes.
+
+En su respuesta, la municipalidad acreditó la incorporación y actualización de representantes de Gendarmería, por lo que esa parte fue subsanada. No obstante, no demostró la designación de un integrante del Servicio Nacional de Reinserción Social Juvenil. En consecuencia, la observación se mantuvo parcialmente y se requirió gestionar formalmente la designación de un representante titular y, cuando corresponda, de una persona subrogante, acreditándolo en el Sistema de Seguimiento y Apoyo CGR dentro de 60 días hábiles.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7
+ Nombre de la observación: Decretos de pago sin acreditación completa de firmas y visaciones.
+
+Texto ampliado de la observación:
+ Se verificó que 33 decretos de pago por un total de $243.443.490 no contenían, según correspondía, firmas, timbres o identificación de las autoridades y unidades intervinientes. El municipio utilizaba correos electrónicos como respaldo de las aprobaciones, en aplicación de un procedimiento de trabajo remoto dictado durante la emergencia sanitaria.
+
+Sin embargo, dicho procedimiento continuaba aplicándose durante 2024, cuando la alerta sanitaria había finalizado. Además, los correos no reunían los requisitos de firma electrónica avanzada previstos en la ley N° 19.799 y tampoco contenían, en todos los casos, la totalidad de las aprobaciones exigidas por el procedimiento municipal.
+
+La entidad aportó posteriormente 31 decretos regularizados e informó la implementación de un sistema de gestión documental con firma electrónica. Por ello, la observación fue subsanada respecto de aquellos documentos, pero se mantuvo para dos decretos de diciembre de 2024 que no fueron acompañados. Se requirió remitir copias formalmente suscritas y aplicar en adelante el procedimiento de firma electrónica avanzada.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 9.1
+ Nombre de la observación: Ausencia de decretos alcaldicios de adjudicación de licitaciones públicas.
+
+Texto ampliado de la observación:
+ Se constató que tres licitaciones públicas, por un total adjudicado de $10.321.227, fueron resueltas mediante certificados sin firma ni fecha, emitidos bajo un procedimiento adoptado durante la emergencia sanitaria. No se dictaron los decretos alcaldicios de adjudicación ni se publicaron esos actos administrativos en el Sistema de Información de Compras y Contratación Pública.
+
+La falta de un acto administrativo formal infringió el artículo 41 del decreto N° 250, de 2004, vigente durante el período examinado, y los artículos 3° y 5° de la ley N° 19.880, en relación con el artículo 12 de la ley N° 18.695. Asimismo, la omisión de publicación vulneró las reglas de transparencia previstas para los procedimientos de contratación pública.
+
+Aunque el municipio manifestó que regularizó la situación, no acompañó los decretos debidamente emitidos y suscritos ni acreditó su publicación en Mercado Público. Por ello, la observación se mantuvo y se requirió formalizar las tres adjudicaciones y publicar la documentación correspondiente dentro de 60 días hábiles.
+
+Observación 8
+
+Acápite del informe: II. Examen de la materia auditada, numeral 10.1
+ Nombre de la observación: Adquisición efectuada fuera del portal Mercado Público.
+
+Texto ampliado de la observación:
+ Se verificó que el municipio autorizó el pago de una adquisición de uniformes destinados al personal de seguridad pública por $2.040.005, realizada fuera del Sistema de Información de Compras Públicas. La operación no correspondía a una compra inferior a 3 UTM, a una adquisición con cargo a caja chica ni a otra exclusión legal o reglamentaria.
+
+Además, el proveedor no figuraba habilitado en el registro electrónico oficial para contratar con organismos del Estado. La situación vulneró el artículo 66 de la ley N° 18.695, las disposiciones del decreto N° 250, de 2004, y el reglamento municipal de contratación.
+
+La entidad reconoció el hecho, informó la instrucción de una investigación sumaria y anunció capacitaciones y controles preventivos. Como esas medidas tendrían efecto futuro y la compra fuera del portal constituía un hecho consolidado, se mantuvo la observación. Se exigió continuar el procedimiento disciplinario, reforzar el control de habilitación de proveedores y asegurar el uso obligatorio del sistema conforme al nuevo decreto N° 661, de 2024.
+
+Observación 9
+
+Acápite del informe: II. Examen de la materia auditada, numeral 10.2
+ Nombre de la observación: Contrataciones directas insuficientemente fundamentadas.
+
+Texto ampliado de la observación:
+ Se detectaron contrataciones directas relativas a la compra de camisetas antibalas, recambio de luminarias y servicios de retiro de instalaciones precarias, cuyas causales no fueron acreditadas mediante antecedentes objetivos y suficientes. En algunos casos se invocó emergencia, urgencia o imprevisto, pese a tratarse de necesidades previsibles o reiteradas. En otro caso se recurrió a trato directo meses después de declararse desierta una licitación, sin justificar la relación temporal ni la indispensable continuidad del servicio.
+
+La mera cita de una causal reglamentaria no acredita su concurrencia. Por su carácter excepcional, el trato directo exige una demostración efectiva y documentada de las circunstancias que impiden utilizar un procedimiento competitivo.
+
+El municipio reconoció deficiencias en la fundamentación y anunció un instructivo general de compras. Sin embargo, las medidas futuras no modificaron los hechos. La observación se mantuvo y se requirió formalizar el instructivo, capacitar al personal y asegurar que toda contratación directa incluya análisis técnico, económico, jurídico y documental de la causal invocada.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 11
+ Nombre de la observación: Facturas registradas contablemente en forma extemporánea.
+
+Texto ampliado de la observación:
+ Se constató que tres facturas emitidas en diciembre de 2023, por un total de $17.016.155, fueron reconocidas y pagadas durante enero de 2024, pese a corresponder a bienes o servicios recibidos durante el ejercicio anterior. La omisión produjo una subvaloración de la deuda flotante al 31 de diciembre de 2023 y comprometió indebidamente el presupuesto municipal del año siguiente.
+
+La municipalidad sostuvo que al término de 2023 no contaba con antecedentes suficientes para reconocer dos facturas. No obstante, un acta aportada en su respuesta confirmó que los bienes habían sido recibidos en diciembre de ese año. En consecuencia, el hecho económico debía haberse registrado en 2023.
+
+La situación infringió el principio de devengado y la imputación presupuestaria establecidos en la resolución N° 3, de 2020, además de los principios de eficiencia e idónea administración de los recursos públicos. Se mantuvo la observación y se requirió fortalecer el control sobre recepción, devengo, contabilización y cierre presupuestario de las adquisiciones.
+
+2. Municipalidad de La Granja
+
+REFERENCIA N°: 116.021/2025
+ Informe Final N°: 321
+ Año: 2025
+ Entidad: Municipalidad de La Granja
+ Materia: Auditoría al proceso de otorgamiento de licencias de conducir y a los ingresos percibidos por dicho concepto, durante el período comprendido entre el 1 de enero de 2023 y el 30 de septiembre de 2024. El universo informado correspondió a 27.003 registros por $1.569.794.087, examinándose una muestra de 180 licencias por $10.161.573.
+
+Nota: Aunque la metodología señala que se realizó examen de cuentas, el desarrollo del informe no contiene un capítulo autónomo denominado “Examen de cuentas”. Las observaciones seleccionadas corresponden a control interno y examen de la materia auditada, incluyendo aspectos asociados a integridad documental y control de sistemas.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.2
+ Nombre de la observación: Manual de procedimientos desactualizado.
+
+Texto ampliado de la observación:
+ Se constató que el manual de procedimientos de la Dirección de Tránsito y Transporte Público no incorporaba las obligaciones relativas al Registro Nacional de Deudores de Pensiones de Alimentos. En particular, no establecía cómo efectuar la consulta en línea, qué funcionario debía realizarla, cuándo correspondía impedir la continuación del trámite y qué evidencia debía incorporarse en el expediente.
+
+La omisión mantenía activo el riesgo de que se otorgaran licencias a personas con inscripción vigente en el registro, por desconocimiento o falta de claridad sobre las funciones asignadas. La situación vulneró el numeral 5.3 de la resolución exenta N° 1.962, de 2022, que exige revisar y actualizar las políticas, procedimientos y actividades de control.
+
+El municipio actualizó y aprobó el manual en septiembre de 2025. Sin embargo, la modificación no describía detalladamente cómo debía documentarse la consulta y, además, la corrección posterior no regularizaba los incumplimientos del período auditado. Por ello, se mantuvo la observación y se requirió incorporar el procedimiento completo, identificando responsable, oportunidad, respaldo, revisión y tratamiento de excepciones judiciales.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.3
+ Nombre de la observación: Omisión de controles para verificar potenciales conflictos de interés.
+
+Texto ampliado de la observación:
+ Se verificó que el municipio no había implementado un procedimiento para identificar y gestionar situaciones en que personas funcionarias de la Dirección de Tránsito debieran abstenerse de participar en trámites de familiares o de personas respecto de las cuales existieran circunstancias que pudieran afectar su imparcialidad.
+
+La inexistencia del control impedía anticipar y mitigar riesgos de probidad en etapas como recepción de solicitudes, exámenes médicos y prácticos, revisión documental y autorización final de la licencia. La situación no armonizaba con los numerales 4.1 y 4.2 de la resolución exenta N° 1.962, de 2022.
+
+La entidad implementó una declaración jurada simple y un libro foliado para registrar las inhabilidades, pero el procedimiento no fue incorporado detalladamente al manual y su aplicación era posterior al período auditado. Por ello, se mantuvo la observación y se requirió formalizar las causales, forma de comunicación, reemplazo de la persona inhabilitada, decisión de la jefatura, conservación de los antecedentes y revisión periódica del registro.
+
+Observación 3
+
+Acápite del informe: II. Examen de la materia auditada, numeral 2.1
+ Nombre de la observación: Folios de licencias de conducir no acreditados.
+
+Texto ampliado de la observación:
+ Del examen del correlativo de formularios se determinó que 32 folios no contaban con acreditación suficiente de su uso ni con el respectivo documento físico. Aunque en el libro manual aparecían registrados como anulados, esa condición no se reflejaba en el sistema informático de licencias.
+
+La falta de concordancia entre el registro manual, el sistema y los formularios físicos impedía determinar con certeza el destino de las especies valoradas y generaba riesgo de acceso indebido, reutilización o emisión irregular de licencias.
+
+La municipalidad indicó que los folios fueron anulados por errores de digitación o emisión y que nunca se utilizaron para otorgar licencias. No obstante, al no aparecer como nulos en el sistema, la explicación no desvirtuó el hallazgo. Se mantuvo la observación y se requirió regularizar los 32 folios, además de establecer conciliaciones periódicas entre adquisiciones, formularios entregados, utilizados, anulados, archivados y disponibles.
+
+Observación 4
+
+Acápite del informe: II. Examen de la materia auditada, numeral 4.1
+ Nombre de la observación: Licencias comunicadas fuera de plazo al Registro Nacional de Conductores.
+
+Texto ampliado de la observación:
+ Se verificó que seis informes semanales con licencias otorgadas fueron enviados al Registro Nacional de Conductores de Vehículos Motorizados fuera del plazo legal. Los atrasos fluctuaron entre 11 y 397 días, observándose casos correspondientes a octubre de 2023 y marzo, abril y julio de 2024 que fueron remitidos en abril de 2025.
+
+El retraso afectó la actualización del registro nacional y la disponibilidad de información para otros municipios, tribunales y organismos competentes. La situación vulneró el artículo 214 de la ley N° 18.290, que fija un plazo de cinco días hábiles para comunicar el otorgamiento de una licencia.
+
+El municipio afirmó que los envíos originales se realizaron oportunamente y que solo se reenviaron durante la auditoría, pero no acompañó los correos o comprobantes que acreditaran esa afirmación. Por ello, se mantuvo la observación y se requirió entregar las comunicaciones originales e incorporar al manual controles de plazo, confirmación de recepción y tratamiento de archivos rechazados.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5
+ Nombre de la observación: Otorgamiento de licencias a personas inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos.
+
+Texto ampliado de la observación:
+ Se determinó que el municipio otorgó o renovó 83 licencias de conducir a personas que figuraban inscritas como deudoras de alimentos. A las fechas de consulta, 7 y 10 de abril de 2025, mantenían una deuda acumulada de 11.111,911 UTM y habían sido incorporadas al registro entre 5 y 335 días antes de la emisión de las licencias.
+
+La situación contravino el artículo 33 de la ley N° 14.908, que obliga a consultar el registro, informar al solicitante y no proseguir el trámite cuando exista una inscripción vigente, salvo autorización judicial.
+
+La entidad señaló que desconoció la funcionalidad del registro hasta febrero de 2024, notificó a las personas involucradas y solicitó al Servicio de Registro Civil la eliminación de las licencias. La CGR precisó que el desconocimiento de una norma vigente desde noviembre de 2022 no resultaba admisible y que no se acreditaron las regularizaciones informadas. Se mantuvo la observación, se requirió documentar las gestiones respecto de los 83 casos e instruir un procedimiento disciplinario.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 6
+ Nombre de la observación: Falta de abstención en la tramitación de licencias de familiares.
+
+Texto ampliado de la observación:
+ Se identificaron cinco casos en que personas funcionarias del Departamento de Licencias de Conducir intervinieron en trámites correspondientes a familiares. La participación comprendió la realización de exámenes prácticos, la aprobación final de evaluaciones médicas y, en un caso, la autorización de la licencia por quien ejercía la Dirección de Tránsito.
+
+La intervención vulneró los artículos 52 y 62, N° 6, de la ley N° 18.575 y el principio de abstención regulado en el artículo 12 de la ley N° 19.880. La afectación no exige acreditar un beneficio efectivo, pues basta la concurrencia de circunstancias que objetiva o potencialmente resten imparcialidad.
+
+La municipalidad anunció una declaración jurada simple, un libro de inhabilidades y una resolución de la jefatura. Sin embargo, no acompañó el acto administrativo que formalizara el procedimiento. Se mantuvo la observación y se requirió incorporar el control al manual, asegurar la abstención escrita y disponer un procedimiento disciplinario para determinar eventuales responsabilidades.
+
+Observación 7
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7.1
+ Nombre de la observación: Otorgamiento de licencias de conducir a personas condenadas.
+
+Texto ampliado de la observación:
+ Del cruce entre las licencias emitidas y los antecedentes del Servicio de Registro Civil e Identificación se determinó que 884 personas habían recibido licencias pese a registrar condenas dictadas entre 2018 y 2024. El informe detalló, a modo de ejemplo, 195 casos.
+
+La municipalidad sostuvo que algunas penas estaban cumplidas y que el director de tránsito había interpretado que aquello permitía reconocer idoneidad moral. Sin embargo, el artículo 16 de la ley N° 18.290 exige considerar las condenas sufridas durante los cinco años anteriores a la solicitud y no condiciona esa evaluación a que la pena se encuentre pendiente.
+
+Los argumentos no desvirtuaron el hallazgo. Se mantuvo la observación y se requirió incorporar controles que aseguren la revisión actualizada de antecedentes y la decisión fundada del director de tránsito. Además, se ordenó instruir un procedimiento disciplinario para determinar las responsabilidades asociadas a los casos observados.
+
+Observación 8
+
+Acápite del informe: II. Examen de la materia auditada, numeral 7.2
+ Nombre de la observación: Licencias otorgadas a personas que se encontraban privadas de libertad.
+
+Texto ampliado de la observación:
+ Se determinó que tres licencias fueron emitidas mientras sus titulares se encontraban cumpliendo penas privativas de libertad, según información proporcionada por Gendarmería de Chile. La condición generaba una inconsistencia material respecto de la comparecencia personal y la realización de los exámenes sensométricos, psicométricos y prácticos exigidos por la normativa.
+
+La entidad explicó uno de los casos señalando que la persona habría sido trasladada por Gendarmería dentro de un programa de reinserción y necesitaba la licencia para conducir maquinaria. No obstante, no acreditó esa circunstancia ni se pronunció suficientemente sobre los otros dos casos.
+
+La situación no se ajustó a la ley N° 18.290, al decreto N° 170, de 1985, ni a los principios de responsabilidad y control de la ley N° 18.575. Se mantuvo la observación, se requirió reforzar la verificación de identidad y presencia física, y la CGR dispuso instruir un sumario administrativo.
+
+Observación 9
+
+Acápite del informe: II. Examen de la materia auditada, numeral 8
+ Nombre de la observación: Expedientes sin copia de la cédula de identidad vigente.
+
+Texto ampliado de la observación:
+ Se evidenció que 130 expedientes de licencias de distintas clases no contenían copia de la cédula nacional de identidad o de extranjería vigente de las personas solicitantes. La ausencia impedía demostrar documentalmente que, al momento de tramitar la licencia, se encontraba acreditado el requisito previsto en el artículo 13, N° 3, de la ley N° 18.290.
+
+También se contravino el artículo 22 de esa ley, que obliga a conservar archivados todos los antecedentes requeridos para otorgar una licencia y sus modificaciones.
+
+La municipalidad informó que incorporaría al manual la obligación de mantener fotocopia de la cédula. Sin embargo, la medida futura no corregía la falta de respaldo de los expedientes auditados. Por ello, se mantuvo la observación y se requirió establecer una lista de verificación documental, impedir el cierre del trámite mientras falten antecedentes y someter los expedientes a una revisión previa a la aprobación.
+
+Observación 10
+
+Acápite del informe: II. Examen de la materia auditada, numeral 11.1
+ Nombre de la observación: Omisión de entrega del registro de transacciones y privilegios del sistema de licencias.
+
+Texto ampliado de la observación:
+ La CGR solicitó el registro de transacciones del sistema de licencias correspondiente a 2023 y 2024, además de la nómina de usuarios, perfiles y privilegios. La petición fue reiterada en 29 oportunidades entre marzo y julio de 2025. No obstante, la municipalidad solo entregó información parcial, sin incluir todas las transacciones, etapas del proceso, usuarios intervinientes ni privilegios de modificación, creación o eliminación.
+
+La omisión impidió reconstruir adecuadamente la trazabilidad de las operaciones y limitó el desarrollo de las pruebas de auditoría. El acceso directo concedido posteriormente al sistema no sustituyó la entrega del registro requerido.
+
+La situación vulneró los artículos 9° de la ley N° 10.336; 20 y 22 de la resolución N° 10, de 2021, y 51 de la ley N° 18.695. Por tratarse de una omisión consolidada que afectó la fiscalización, la observación se mantuvo. Se requirió instruir al personal sobre la obligación de entregar información completa y oportuna, y la CGR dispuso la instrucción de un sumario administrativo.
+
+3. Departamento de Educación de la Municipalidad de Estación Central
+
+REFERENCIA N°: 115.019/2024
+ Informe Final N°: 262
+ Año: 2024
+ Entidad: Departamento de Educación de la Municipalidad de Estación Central
+ Materia: Auditoría y examen de cuentas a los recursos asociados a los procesos de rectificación de subvenciones SEP y FAEP realizados durante 2022, respecto de recursos educacionales del año 2020. El universo utilizado ascendió a $1.011.502.907 y la muestra examinada a $458.711.232.
+
+Observación 1
+
+Acápite del informe: I. Aspectos de control interno, numeral 1.1
+ Nombre de la observación: Ausencia del procedimiento de rectificación en los manuales de rendición SEP y FAEP.
+
+Texto ampliado de la observación:
+ Se verificó que los manuales específicos de rendición de recursos SEP y FAEP no regulaban el proceso de rectificación de cuentas. No contemplaban procedimientos para detectar gastos que debían rectificarse, postular al proceso, verificar requisitos, controlar los gastos incorporados, cargar bases de datos ni conservar antecedentes de respaldo.
+
+Tampoco se encontraban identificados los roles, responsabilidades, revisiones, autorizaciones y controles necesarios para asegurar la integridad y exactitud de la información remitida a la Superintendencia de Educación.
+
+La situación no se ajustó al artículo 5° de la resolución exenta N° 1.962, de 2022. El municipio informó que había modificado los manuales y solicitado su formalización, pero esa aprobación se encontraba pendiente. En consecuencia, se mantuvo la observación y se requirió remitir los manuales actualizados, debidamente sancionados mediante acto administrativo, dentro de 60 días hábiles.
+
+Observación 2
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.1
+ Nombre de la observación: Ausencia de auditorías a los procesos de rendición y rectificación.
+
+Texto ampliado de la observación:
+ Se constató que desde 2022 hasta el cierre de la auditoría municipal no se habían realizado revisiones o auditorías internas a las rendiciones ni a los procesos de rectificación de subvenciones desarrollados desde 2019. Esto ocurrió pese a que en marzo de 2022 se había solicitado a la Dirección de Control una auditoría operativa sobre los programas PIE, FAEP y SEP de los años 2016 a 2021.
+
+La Dirección de Control había propuesto efectuar la revisión en tres etapas, pero no existía evidencia de su ejecución. El municipio atribuyó la situación a falta de personal, cambios de jefaturas, ausencia de información entregada por el DEM, migración de sistemas y al traspaso hacia el Servicio Local de Educación Pública.
+
+Como el hecho estaba consolidado y no podía regularizarse para el período auditado, la observación se mantuvo. Se requirió considerar en los planes anuales de auditoría revisiones específicas a rendiciones y rectificaciones de subvenciones, atendiendo a la materialidad y al riesgo de los recursos involucrados.
+
+Observación 3
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.2
+ Nombre de la observación: Deficiencias en el control del monto efectivamente rectificado.
+
+Texto ampliado de la observación:
+ Se constató que el DEM mantenía una planilla Excel con el detalle de rendiciones y rectificaciones, pero la información no reflejaba de manera íntegra y verificable el monto efectivamente rectificado ni las transacciones que lo componían.
+
+La ausencia de concordancia con la información de los organismos otorgantes y fiscalizadores dificultaba el seguimiento, la detección de diferencias y la toma de decisiones. La situación infringió los artículos 3° y 5° de la ley N° 18.575 y el artículo 6° de la resolución exenta N° 1.962, de 2022, relativo a la integridad y calidad de los datos.
+
+El municipio explicó que existían deficiencias heredadas de la administración anterior y que había reconstruido parte de la información. Sin embargo, esas explicaciones no modificaron la deficiencia detectada. Se mantuvo la observación y se requirió conciliar sistemáticamente los montos recibidos, rendidos, pendientes y rectificados con los registros de la Subsecretaría y la Dirección de Educación Pública.
+
+Observación 4
+
+Acápite del informe: I. Aspectos de control interno, numeral 2.3
+ Nombre de la observación: Ausencia reiterada de conciliaciones bancarias de las cuentas SEP y FAEP.
+
+Texto ampliado de la observación:
+ Se evidenció que durante 2022 no se confeccionaron conciliaciones bancarias mensuales de las cuentas corrientes destinadas a los recursos SEP y FAEP. La misma deficiencia ya había sido detectada para los años 2019 y 2020 en el Informe Final N° 725, de 2022.
+
+La ausencia de conciliaciones impedía cotejar los registros contables con los saldos bancarios, identificar transferencias en tránsito, cheques girados y no cobrados, cargos no contabilizados, abonos pendientes y eventuales errores o irregularidades.
+
+El municipio reconoció el hallazgo y presentó una programación que concluía en diciembre de 2024. Como las medidas eran futuras y el incumplimiento era reiterado, se mantuvo la observación. Se exigió elaborar las conciliaciones de 2022, implantarlas mensualmente en adelante e instruir un procedimiento disciplinario para determinar eventuales responsabilidades.
+
+Observación 5
+
+Acápite del informe: II. Examen de la materia auditada, numeral 3
+ Nombre de la observación: Diferencias entre las bases de datos del sostenedor y de la Superintendencia de Educación.
+
+Texto ampliado de la observación:
+ Se determinaron diferencias por $966.427.624 entre la base del DEM y la información proporcionada por la Superintendencia de Educación. Para SEP, la superintendencia registraba $1.010.185.779, mientras que el DEM informaba $1.692.147.329. Para FAEP, el organismo fiscalizador registraba $1.317.128 y el DEM $285.783.202.
+
+La magnitud de las diferencias impedía identificar con certeza los gastos efectivamente rectificados y comprometía la integridad de la información utilizada para rendir cuentas y acreditar saldos.
+
+El municipio reconoció las discrepancias y explicó que debió reconstruir información no traspasada por la administración anterior. Sin embargo, no aclaró el origen de la diferencia. La observación se mantuvo y se requirió identificar sus causas, corregir la base institucional y conciliarla con la información oficial de la Superintendencia de Educación.
+
+Observación 6
+
+Acápite del informe: II. Examen de la materia auditada, numeral 5
+ Nombre de la observación: Actos administrativos de contrataciones dictados extemporáneamente.
+
+Texto ampliado de la observación:
+ Se constató que los decretos alcaldicios que aprobaron contrataciones incluidas en la muestra fueron dictados después del inicio de las funciones. Los atrasos alcanzaron hasta 586 días corridos entre la fecha de comienzo del contrato y la emisión del acto administrativo que lo formalizó.
+
+La emisión tardía impedía contar oportunamente con el marco jurídico que definiera funciones, duración, jornada y financiamiento. La situación contravino el deber de control jerárquico establecido en el artículo 61, letra a), de la ley N° 18.883, el principio de celeridad del artículo 7° de la ley N° 19.880 y el artículo 8° de la ley N° 18.575.
+
+El DEM informó que había solicitado la instrucción de un sumario administrativo. Como el procedimiento no se encontraba formalmente dispuesto y la regularización posterior no subsanaba la extemporaneidad, se mantuvo la observación. Se requirió emitir en adelante los decretos antes del inicio de las funciones y remitir el acto que instruyera el procedimiento disciplinario.
+
+Observación 7
+
+Acápite del informe: III. Examen de cuentas, numeral 6.1
+ Nombre de la observación: Gastos SEP improcedentes que no se ajustaron al Plan de Mejoramiento Educativo.
+
+Texto ampliado de la observación:
+ Se determinó que el municipio rectificó con cargo a la subvención SEP pagos por $13.018.569 correspondientes a una contratación para desempeñar labores de soporte computacional. No fue posible asociar esas funciones a una acción expresamente contemplada en el Plan de Mejoramiento Educativo 2020 del establecimiento.
+
+La entidad sostuvo que el apoyo informático era necesario para fortalecer las clases a distancia. Sin embargo, aunque el PME contemplaba apoyo multidisciplinario, individualizaba otros perfiles profesionales y señalaba que la actividad no requería tecnologías de información y comunicaciones.
+
+Por ello, la explicación no permitió demostrar la pertinencia del gasto. La observación se mantuvo y se exigió acreditar documentalmente su relación con el PME o regularizar la rectificación ante la Superintendencia de Educación. De no concretarse, el informe contempló remitir antecedentes al Ministerio Público y al Consejo de Defensa del Estado.
+
+Observación 8
+
+Acápite del informe: III. Examen de cuentas, numeral 6.2
+ Nombre de la observación: Gasto imputado a FAEP que no se enmarcó en los objetivos del fondo.
+
+Texto ampliado de la observación:
+ Se observó un gasto rectificado por $148.459 correspondiente a una parte de la remuneración de una persona contratada para desempeñar funciones docentes en el Programa de Integración Escolar. Dicho pago fue imputado al FAEP 2020, sin acreditarse una modificación de funciones o un antecedente que justificara su relación con las iniciativas financiadas por ese fondo.
+
+El municipio argumentó que el FAEP puede financiar remuneraciones vinculadas a la prestación y fortalecimiento del servicio educativo. Aunque aquello resulta posible, el contrato examinado establecía expresamente que las funciones correspondían al programa PIE.
+
+En ausencia de documentación que acreditara una modificación de las labores o una vinculación específica con el plan FAEP, la observación se mantuvo. Se requirió justificar la procedencia del gasto o regularizar la rectificación ante la Superintendencia de Educación.
+
+Observación 9
+
+Acápite del informe: III. Examen de cuentas, numerales 6.3 y 6.4
+ Nombre de la observación: Gastos rectificados SEP y FAEP sin documentación suficiente.
+
+Texto ampliado de la observación:
+ Se constató que gastos SEP por $457.394.104, correspondientes a remuneraciones de 25 personas, no contaban con las nóminas que permitieran vincular individualmente los pagos rectificados con los decretos de pago. Dentro de ese monto, $101.563.872 tampoco disponían de contratos o liquidaciones suficientes.
+
+Asimismo, la totalidad de los gastos FAEP examinados, por $1.317.128, carecía de decretos de pago, comprobantes de egreso, liquidaciones de remuneraciones y cartolas bancarias. En algunos casos tampoco se proporcionaron los contratos ni los decretos alcaldicios aprobatorios.
+
+La falta de respaldo infringió los artículos 85 y siguientes de la ley N° 10.336 y el artículo 2°, letra c), de la resolución N° 30, de 2015. Como la entidad no entregó nuevos antecedentes que acreditaran los desembolsos, las observaciones se mantuvieron. Se exigió completar la documentación o regularizar las rectificaciones, bajo apercibimiento de remitir los antecedentes a los organismos competentes.
+
+Observación 10
+
+Acápite del informe: III. Examen de cuentas, numeral 6.5
+ Nombre de la observación: Diferencia entre el decreto de pago y el desembolso registrado en la cartola SEP.
+
+Texto ampliado de la observación:
+ Se constató que el decreto de pago N° 732, de agosto de 2020, registraba un monto de $67.528.163, mientras que la cartola bancaria de la cuenta SEP mostraba un desembolso de $68.931.673. La diferencia no justificada ascendió a $1.403.510.
+
+El municipio señaló que pudo existir una modificación del decreto que no quedó reflejada en el documento tramitado y anunció una revisión de los antecedentes en papel y de la bitácora del sistema contable. Sin embargo, no acompañó evidencia que demostrara la existencia, autorización y fundamento del mayor desembolso.
+
+La discrepancia vulneró los principios de responsabilidad, control, eficiencia y eficacia de los artículos 3°, 5° y 11 de la ley N° 18.575 y fue observada conforme a los artículos 95 y siguientes de la ley N° 10.336. Se mantuvo la observación y se requirió aclarar documentalmente la diferencia dentro de 60 días hábiles.
+
+Estructura útil para el agente de redacción CGR
+
+A partir de los tres informes, cada observación debería contener los siguientes componentes:
+
+Acápite: control interno, examen de la materia auditada o examen de cuentas.
+Condición: hecho comprobado durante la auditoría.
+Evidencia: cantidades, montos, fechas, documentos, sistemas o expedientes examinados.
+Riesgo o efecto: legalidad, integridad, trazabilidad, patrimonio, transparencia o continuidad operacional.
+Criterio: ley, reglamento, resolución, dictamen, oficio, manual o cláusula aplicable.
+Respuesta institucional: síntesis objetiva de los argumentos y antecedentes aportados.
+Análisis de la respuesta: indicar si acredita, desvirtúa, corrige parcialmente o solo anuncia medidas futuras.
+Estado: observación subsanada, levantada, mantenida o mantenida parcialmente.
+Medida requerida: acción, responsable, respaldo documental y plazo.
+Cierre CGR: identificar si se trata de un hecho consolidado, si corresponde seguimiento o si procede un procedimiento disciplinario.
